@@ -2323,7 +2323,7 @@ public final class Settings {
          */
         public static final String MVNO_ROAMING = "mvno_roaming";
 
-        /*
+        /**
          * Whether to enable quiet hours.
          * @hide
          */
